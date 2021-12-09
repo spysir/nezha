@@ -377,11 +377,7 @@ Agent 端配置
 
 </details>
 
-## 社区文章
 
-- [哪吒探针 - Windows 客户端安装](https://nyko.me/2020/12/13/nezha-windows-client.html)
-- [哪吒监控，一个便携服务器状态监控面板搭建教程，不想拥有一个自己的探针吗？](https://haoduck.com/644.html)
-- [哪吒监控：小鸡们的最佳探针](https://www.zhujizixun.com/2843.html) _（已过时）_
-- [>>更多教程](https://www.google.com/search?q="哪吒监控"+"教程") (Google)
-
-SEO **云探针、多服务器探针、云监控、多服务器云监控**
+## 安装/升级/卸载/配置
+  
+  curl -L https://raw.githubusercontent.com/naiba/nezha/master/script/install.sh -o nezha.sh && chmod +x nezha.sh && ./nezha.sh
