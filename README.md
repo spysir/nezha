@@ -380,4 +380,4 @@ Agent 端配置
 
 ## 安装/升级/卸载/配置
   
-  curl -L https://raw.githubusercontent.com/naiba/nezha/master/script/install.sh  -o nezha.sh && chmod +x nezha.sh && bash nezha.sh
+  curl -L https://raw.githubusercontent.com/naiba/nezha/master/script/install.sh  -o nezha.sh && chmod +x nezha.sh && sudo ./nezha.sh
