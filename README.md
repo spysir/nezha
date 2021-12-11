@@ -380,6 +380,4 @@ Agent 端配置
 </details>
 
 
-## 安装/升级/卸载/配置
-  
-  bash <(curl -fsSL https://raw.githubusercontent.com/naiba/nezha/master/script/install.sh)
+
