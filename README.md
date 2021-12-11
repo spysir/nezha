@@ -10,11 +10,11 @@
   <p>:trollface: <b>哪吒监控</b> 一站式轻监控轻运维系统。支持系统状态、HTTP(SSL 证书变更、即将到期、到期)、TCP、Ping 监控报警，计划任务和在线终端。</p>
 </div>
 
-\## 安装/升级/卸载/配置
+## 安装/升级/卸载/配置
   
   bash <(curl -fsSL https://raw.githubusercontent.com/naiba/nezha/master/script/install.sh)
 
-\>> [我们的用户](https://www.google.com/search?q="powered+by+哪吒监控"&filter=0) (Google)
+[我们的用户](https://www.google.com/search?q="powered+by+哪吒监控"&filter=0) (Google)
 
 | 默认主题                                                                                 | DayNight [@JackieSung](https://github.com/JackieSung4ev)     | hotaru                                                                     |
 | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------ | -------------------------------------------------------------------------- |
